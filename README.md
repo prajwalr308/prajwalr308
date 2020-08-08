@@ -1,5 +1,5 @@
 ###    Hi there 👋
-<img src="https://github.com/prajwalr308/prajwalr308/blob/master/banner.png"></img>
+<img src="https://github.com/prajwalr308/prajwalr308/blob/master/banner_lg.png"></img>
 
 
 
