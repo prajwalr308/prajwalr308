@@ -1,4 +1,4 @@
-<img src="https://github.com/prajwalr308/prajwalr308/blob/master/github.png"></img>
+<img src="https://github.com/prajwalr308/prajwalr308/blob/master/banner.png"></img>
 ###   Hi there 👋
 
 <!--
