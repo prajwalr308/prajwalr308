@@ -1,13 +1,13 @@
-###    Hi there 👋
+### Hi there 👋
 <img src="https://github.com/prajwalr308/prajwalr308/blob/master/banner_lg.png"></img>
 
 
 
 
 
-I'm prajwal,I enjoy creating things that live on the internet,
-whether that is websites, applications, or anything in between 
-and I love learning about new technologies.
+#### I'm prajwal,I enjoy creating things that live on the internet,
+#### whether that is websites, applications, or anything in between 
+#### and I love learning about new technologies.
 
 
 ### My portofolio🌎:https://prajwalthedeveloper.netlify.app
