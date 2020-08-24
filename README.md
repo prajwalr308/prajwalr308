@@ -10,7 +10,7 @@
 #### and I love learning about new technologies.
 
 
-### My portofolio🌎:https://prajwalrthedeveloper.netlify.app/
+### My portofolio🌎:https://prajwalthedeveloper.netlify.app/
 <!--
 **prajwalr308/prajwalr308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
